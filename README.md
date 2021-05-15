@@ -1,9 +1,6 @@
 <div class="h">
 <h1 class="red">Mangal⚙</h1>
 </div>
-<style>.red {
-color: #ffffff;
-}</style>
 <div>
 <li>Mangal⚙ - это офигенный БОТ у которого есть красивое оформление и понятные комманды!<li>
 <ul>
