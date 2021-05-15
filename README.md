@@ -4,10 +4,6 @@
 <style>.red {
 color: #ffffff;
 }</style>
-<style> .h{
-text-align: center;
-text-shadow: 0 0 5px #0f00ff, 0 0 10px #0f00ff, 0 0 20px #0f00ff;
-} </style>
 <div>
 <li>Mangal⚙ - это офигенный БОТ у которого есть красивое оформление и понятные комманды!<li>
 <ul>
