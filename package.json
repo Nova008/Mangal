@@ -1,0 +1,69 @@
+{
+	"name": "Mangal❗",
+	"version": "1.1.0",
+	"main": "shard.js",
+	"description": "Discord-Многоцелевой бот",
+	"author": "DM PRANKS",
+	"scripts": {
+		"start": "node shard.js",
+		"test": "echo \"Ошибка: тест не указан\" && exit 0",
+		"lint": "eslint . --fix && exit 0",
+		"code-format": "npx prettier --write . && exit 0"
+	},
+	"email": "dmpranks2004@gmail.com",
+	"url": "https://bots.server-discord.com/771057389730005053/",
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"repository": {
+		"url": ""
+	},
+	"bugs": {
+		"url": ""
+	},
+	"homepage": "",
+	"keywords": [],
+	"license": "MIT",
+	"dependencies": {
+		"@discordjs/opus": "^0.5.0",
+		"@megavasiliy007/sdc-api": "github:MegaVasiliy007/sdc-api",
+		"blapi": "^2.1.0",
+		"canvacord": "^5.1.0",
+		"canvas": "^2.7.0",
+		"cryptr": "^6.0.2",
+		"discord-giveaways": "^4.4.3",
+		"discord.js": "^12.5.3",
+		"distube": "^2.8.12",
+		"dotenv": "^8.2.0",
+		"enmap": "^5.8.4",
+		"express": "^4.17.1",
+		"ffmpeg": "0.0.4",
+		"ffmpeg-static": "^4.3.0",
+		"fs": "^0.0.1-security",
+		"fs-extra": "^9.1.0",
+		"install": "^0.13.0",
+		"moment": "^2.29.1",
+		"ms": "^2.1.3",
+		"nekos.life": "^2.0.7",
+		"node-fetch": "^2.6.1",
+		"npm": "^7.13.0",
+		"opusscript": "^0.0.8",
+		"os": "^0.1.1",
+		"pet-pet-gif": "^1.0.5",
+		"quick.db": "^7.1.3",
+		"request": "^2.88.2",
+		"sqlite3": "^5.0.2",
+		"superagent": "^6.1.0",
+		"topgg-autoposter": "^1.1.10",
+		"twemoji-parser": "^13.0.0",
+		"urban": "^0.3.2",
+		"weather-js": "^2.0.0",
+		"ytdl-core": "^4.8.0"
+	},
+	"devDependencies": {
+		"eslint": "^7.24.0",
+		"eslint-config-airbnb-base": "^14.2.1",
+		"eslint-plugin-import": "^2.22.1",
+		"prettier": "2.2.1"
+	}
+}
